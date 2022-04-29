@@ -1,11 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T12:08:07.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="54oRzijnRznUkmqf9_DT" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T12:11:08.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MpaWRho37bpgyMOeWqWz" version="17.4.6" type="github">
   <diagram id="W7sTtNGT6KP5eDfmNrZ4" name="Page-1">
     <mxGraphModel dx="1209" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u0nR5Cqol-sP4MI4W9C6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="u0nR5Cqol-sP4MI4W9C6-1" target="u0nR5Cqol-sP4MI4W9C6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u0nR5Cqol-sP4MI4W9C6-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="520" height="481" as="geometry" />
+        </mxCell>
+        <mxCell id="u0nR5Cqol-sP4MI4W9C6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="1" source="u0nR5Cqol-sP4MI4W9C6-2" target="u0nR5Cqol-sP4MI4W9C6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0nR5Cqol-sP4MI4W9C6-2" value="&lt;font style=&quot;font-size: 30px&quot;&gt;SSH - tunnel&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="720" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u0nR5Cqol-sP4MI4W9C6-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.coursehunter.net/category/mongodb.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="930" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="u0nR5Cqol-sP4MI4W9C6-6" value="27017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u0nR5Cqol-sP4MI4W9C6-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://it.utah.edu/_resources/images/node4/2021/sept2021-vpn1.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1430" width="433" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
